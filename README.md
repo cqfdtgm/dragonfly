@@ -1,9 +1,2 @@
-#   -*- coding: utf8	-*-
-
-OOOOO
-
-k 中文测试
-
-回车
-
-
+test for 
+rebeging @ 20180930
